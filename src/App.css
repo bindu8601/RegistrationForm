@@ -1,0 +1,46 @@
+*{
+    background-color: rgb(95, 248, 95);
+}
+input{
+    padding: 1rem;
+    margin-top: 2rem;
+    width: 350px;
+    background-color: rgb(213, 204, 204);
+}
+button{
+    padding: 1rem;
+    margin-top: 2rem;
+    width: 380px;
+    cursor: pointer;
+}
+.box{
+    width:400px;
+    height: 500px;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-top: 7rem;
+    padding-top: 2rem;
+    background-color: aliceblue;
+    padding: 10px;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+  }
+span {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: red;
+    margin-bottom: 15px;
+    background-color: aliceblue;
+  }
+  .successmessage {
+    font-family: "Roboto", sans-serif;
+    background-color: #3f89f8;
+    padding: 15px;
+    color: white;
+  }
